@@ -1,4 +1,5 @@
-# simple-calculater
+# Simple-calculater
+BY ARYAN GUPTA
 1-OVERVIEW
 A beginner‑friendly Python command-line calculator that supports addition, subtraction, multiplication, and division with input validation and a simple text menu interface
 2-FEATURES
