@@ -16,6 +16,12 @@ A beginner‑friendly Python command-line calculator that supports addition, sub
  d-create a file eg calculater.py
  e-write your python code and run it 
 5-SCREENSHOT
+a-<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/ac665aaa-8126-4bf9-a707-4f06bc38580b" />
+b-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/ced7d238-d26e-4563-8ac8-1b03835e438f" />
+c-<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/1664e1d3-c091-456d-a63d-bebf67e73460" />
+
+
+
 
 
 
