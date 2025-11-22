@@ -1,24 +1,49 @@
-# Simple-calculater
-1-OVERVIEW
-A beginner‑friendly Python command-line calculator that supports addition, subtraction, multiplication, and division with input validation and a simple text menu interface
-2-FEATURES
- a-supports four basic operations (add,sub,mul,div)
- b-user friendly menu
- c-prevents error
- d-using loops for multiple calculation
-3-TECHNOLOGIES
- a-Pyhton 3.14
- b-command line interference for user input and output
-4-Steps to install & run the project
- a-install python and vscode on your system
- b-install python exxtension on your vs code
- c-create project folder eg python_project
- d-create a file eg calculater.py
- e-write your python code and run it 
+# Simple Python Calculator
+
+A basic command-line calculator written in Python that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. [web:4][web:7]
+
+## Features
+
+- Supports addition, subtraction, multiplication, and division. [web:4][web:7]  
+- Interactive command-line interface that asks the user for input. [web:1][web:7]  
+- Validates operator choice and handles invalid inputs gracefully. [web:1][web:7]  
+- Simple, beginner-friendly Python code structure. [web:5]
+
+## Requirements
+
+- Python 3.x installed on your system. [web:8]  
+- A terminal or command prompt to run the script. [web:7]
+
+## How to Run
+
+1. Clone or download this project folder. [web:5]  
+2. Open a terminal in the project directory. [web:5]  
+3. Run the calculator script:
+
+Make sure the file name in the command (`calculator.py`) matches your Python file name. [web:7]
+
+## Usage Example
+
+When you run the script, it will:
+
+1. Ask you to choose an operation (for example: 1 for addition, 2 for subtraction, etc.). [web:4][web:7]  
+2. Ask you to enter two numbers. [web:4][web:7]  
+3. Display the result of the chosen operation. [web:4][web:7]
+
+Example interaction:
 5-SCREENSHOT
 a-<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/ac665aaa-8126-4bf9-a707-4f06bc38580b" />
 b-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/ced7d238-d26e-4563-8ac8-1b03835e438f" />
 c-<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/1664e1d3-c091-456d-a63d-bebf67e73460" />
+
+You can add more files (like `tests.py` or additional modules) as the project grows. [web:5]
+
+## Future Improvements
+
+- Add support for more operations (power, modulus, etc.). [web:4]  
+- Add input validation for non-numeric values. [web:7]  
+- Create a menu loop to perform multiple calculations without restarting the program. [web:7]
+
 
 
 
