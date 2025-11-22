@@ -35,8 +35,31 @@ Example interaction:
 a-<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/ac665aaa-8126-4bf9-a707-4f06bc38580b" />
 b-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/ced7d238-d26e-4563-8ac8-1b03835e438f" />
 c-<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/1664e1d3-c091-456d-a63d-bebf67e73460" />
+d-<img width="1820" height="661" alt="Screenshot 2025-11-21 182402" src="https://github.com/user-attachments/assets/c3843648-157b-42be-87b5-b8dfce676df5" />
+e-<img width="1818" height="752" alt="Screenshot 2025-11-21 191820" src="https://github.com/user-attachments/assets/69351ede-3f70-40f0-93c8-5d81e09a670e" />
+Educational Background and Concepts
+What is a Calculator?
+A calculator is a tool to perform arithmetic calculations — from simple to complex — empowering users to quickly solve mathematical problems without manually doing the operations themselves.
 
-You can add more files (like `tests.py` or additional modules) as the project grows. [web:5]
+Arithmetic Operations
+Addition (+): Sum of two numbers
+
+Subtraction (-): Difference between two numbers
+
+Multiplication (*): Product of two numbers
+
+Division (/): Quotient of two numbers (division by zero undefined)
+
+Python Programming Basics in this Project
+Functions: Encapsulate arithmetic logic
+
+Input Handling: Use input() for user inputs
+
+Data Conversion: Convert inputs to float for decimal operations
+
+Control Flow: Use while loops and if-elif-else for process control
+
+Error Handling: Use try-except blocks to catch invalid inputs and exceptio
 
 ## Future Improvements
 
